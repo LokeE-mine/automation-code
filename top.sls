@@ -1,0 +1,5 @@
+base:
+  '*':
+    - demo
+    - user
+    
